@@ -3,7 +3,7 @@
 [Watch the Insane Future of Web 3.0 and Metaverse Video in Urdu](https://www.youtube.com/watch?v=eEz1rnmCfn4)
 
 
-![Web3 Metaverse](metaverse.jpeg)
+![Web3](web3.png)
 
 ## All Students Should Start Preparing For JavaScript Entry Test
 
